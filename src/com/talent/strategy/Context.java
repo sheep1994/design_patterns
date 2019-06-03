@@ -3,7 +3,7 @@ package com.talent.strategy;
 /**
  * @program: design_patterns
  * @author: Mr.Guo
- * @description: 策略上下文类
+ * @description: 策略上下文类,直接面向客户端的
  * @create: 2019-05-17 15:29
  */
 public class Context {
